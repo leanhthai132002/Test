@@ -1,0 +1,20 @@
+{
+  "product": [
+    {
+      "name": "Sách hay",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "Iphone 11",
+      "price": 11,
+      "id": 2,
+      "status": "undefined"
+    },
+    {
+      "name": "admin",
+      "price": 1001,
+      "id": 3
+    }
+  ]
+}
